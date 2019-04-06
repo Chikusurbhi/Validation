@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Validation
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SGUPTA83
+Implementation-Vendor-Id: com.paypal
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/Validation/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
